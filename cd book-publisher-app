@@ -1,0 +1,8 @@
+cd book-publisher-app
+
+# Sostituisci 'YOUR_USERNAME' con il tuo username GitHub
+git remote add origin https://github.com/YOUR_USERNAME/kdp-book-publisher.git
+
+# Push del codice su GitHub
+git branch -M main
+git push -u origin main
